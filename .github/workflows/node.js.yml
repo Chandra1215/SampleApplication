@@ -27,4 +27,4 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm install
-    - run: ng serve -o
+    - run: npm start
